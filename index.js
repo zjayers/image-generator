@@ -10,4 +10,6 @@ const getImages = async (numberToDownload) => {
   }
 };
 
+// Edit the number here to download n number of images
+// They will save out to the img directory
 getImages(100);
