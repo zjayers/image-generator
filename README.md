@@ -1,27 +1,21 @@
-<h1 align="center">Welcome to image-generator 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+# Image-Generator
+[![GitHub Release](https://img.shields.io/github/release/zjayers/image-generator.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/image-generator.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/image-generator.svg?maxAge=25000)](https://github.com/zjayers/image-generator/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/image-generator/blob/master/LICENSEs)
 
-## Install
+## Description
 
-```sh
-npm install
-```
+> Work in progress
+
+## Features
+
+> Work in progress
+
+## Installation
+
+> Work in progress
 
 ## Usage
 
-```sh
-npm run start
-```
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+> Work in progress
